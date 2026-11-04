@@ -10,3 +10,13 @@ form{
 
     padding: 10px;
 }
+body{
+      background: url(sky.jpg)repeat-x;
+}
+#id:hover{
+    background-color: burlywood;
+}
+footer{
+   color: bisque;
+   background-color: aqua;
+}
